@@ -16,3 +16,13 @@ Written in C++.
 
 results are contained in out.txt
 	
+	
+Demonstrates:
+	
+	Object Oriented Programming
+	Class
+	Inheritance
+	Overloading
+	Overridding
+	Popular commenting practicaes
+	Fun Stuff
